@@ -4,14 +4,17 @@ This is a simple and handy Chrome extension that shows the Nepali Calendar, Panc
 
 ## Screenshots
 
-- Calendar: 
+- **Calendar**
+
 ![image](https://github.com/dhirajraut1/nepali-panchang/assets/63958838/efbd377c-570d-4b54-8eb2-e89476ed425f)
 
-- Panchanga
-  ![image](https://github.com/dhirajraut1/nepali-panchang/assets/63958838/bc6423af-0ce6-4ef7-9288-76896b2e246c)
+- **Panchanga**
+  
+![image](https://github.com/dhirajraut1/nepali-panchang/assets/63958838/bc6423af-0ce6-4ef7-9288-76896b2e246c)
 
-- Horoscope
-  ![image](https://github.com/dhirajraut1/nepali-panchang/assets/63958838/e84ada29-54e4-48f4-be16-0574867e0f64)
+- **Horoscope**
+
+![image](https://github.com/dhirajraut1/nepali-panchang/assets/63958838/e84ada29-54e4-48f4-be16-0574867e0f64)
 
 
 ## Installation
